@@ -1,5 +1,5 @@
 
-# Data Analysis Notebooks
+# IA Conference Notebooks
 
 This repository contains Jupyter notebooks for various data analysis tasks.
 
